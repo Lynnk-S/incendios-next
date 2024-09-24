@@ -21,7 +21,7 @@ const TopAppBar = () => {
     "Mision",
     "Vision",
     "Control Sensores",
-    "Control fuego",
+    "Analisis de contaminacion",
     "Contactos",
   ];
   return (
@@ -78,7 +78,7 @@ const TopAppBar = () => {
         </NavbarItem>
         <NavbarItem>
           <Link color="foreground" href="#">
-            Control Fuego
+            Analsis de contaminacion
           </Link>
         </NavbarItem>
         <NavbarItem>
